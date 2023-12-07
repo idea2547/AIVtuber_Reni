@@ -3,8 +3,7 @@
 
 
 ## Technologies Used
-
- - Voice.ai
+ - Speecify.in.th
  - Google cloud TTS
  - Whisper OpenAI [https://platform.openai.com/account/api-keys]
  - VtubeStudio
@@ -13,8 +12,6 @@
 ## Installation
 
 You must use your own OpenAI and DeepL API KEY
-
-To use this project, you will need to download the `VoiceVox Engine` from their GitHub page. You will also need to capture desktop audio using `Virtual Cable` and use it as input on VtubeStudio microphone.
 
 Use `chat.txt` and `output.txt` as an input on OBS Text (Realtime Caption)
 
